@@ -1,0 +1,3 @@
+[submodule "libpytunes"]
+	path = libpytunes
+	url = git@github.com:liamks/libpytunes.git
